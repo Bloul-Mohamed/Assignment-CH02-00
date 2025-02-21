@@ -52,7 +52,6 @@ https://github.com/Bloul-Mohamed/Assignment-CH02-00.git
 Detailed documentation about the development process and implementation details can be found in the project report (docs/report.pdf).
 
 ## Contact
-[Your Name]
 - Email: [m.bloul.inf@lagh-univ.dz]
 - University: University of Laghouat
 - Department: Computer Science
